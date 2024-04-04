@@ -1,0 +1,3 @@
+enum MessageType{
+  SERVER,USER;
+}

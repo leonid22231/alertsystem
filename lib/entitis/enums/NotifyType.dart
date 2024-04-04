@@ -1,0 +1,3 @@
+enum NotifyType{
+  NOT,NEAR,DISTANCE,REGION,COUNTRY,ALL;
+}

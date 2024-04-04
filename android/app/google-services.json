@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386393760409",
+    "project_id": "alert-system-10401",
+    "storage_bucket": "alert-system-10401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386393760409:android:92b964c133fd53e73d0e08",
+        "android_client_info": {
+          "package_name": "com.thedeveloper.jarshy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaceWb6YFNxqkrZdfuZpt917uZycoZNA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

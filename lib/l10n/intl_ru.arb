@@ -1,0 +1,118 @@
+{
+  "@@locale": "ru",
+  "button_next": "Далее",
+  "button_end": "Завершить",
+  "welcome_title_0": "Добро пожаловать",
+  "welcome_title_1": "Местоположение",
+  "welcome_title_2": "Уведомления",
+  "welcome_title_3": "Завершено",
+  "welcome_text_0": "Добро пожаловать в приложение. Для оптимальной работы ему потребуются разрешения. Дополнительная информация об этом приводится в нашей ",
+  "welcome_text_0_0": "Политике конфиденциальности.",
+  "welcome_text_1": "Это приложение использует разрешение на определение местоположения для расчета расстояния до каждого катаклизма, оповещений о ближайших землетрясениях, погоде и аналитики.",
+  "welcome_text_2": "Это приложение использует разрешение на отправку уведомлений, чтобы предупреждать вас о катаклизмах, которые могут повлиять на вас. Без этого разрешения вы не будете получать уведомления.",
+  "welcome_text_3": "Спасибо за завершение процесса настройки. Теперь можно начать использовать приложение. Нажмите Завершить, чтобы открыть приложение.",
+  "welcome_text_next": "Чтобы продолжить, нажмите Далее",
+  "welcome_step": "Шаг {step} из 3",
+  "@welcome_step": {
+    "placeholders": {
+      "step": {
+        "type": "int"
+      }
+    }
+  },
+  "history_input": "Найти событие",
+  "event_time_hours": "({time} часов назад)",
+  "@event_time_hours": {
+    "placeholders": {
+      "time": {
+        "type": "int"
+      }
+    }
+  },
+  "event_time_minutes": "({time} минут назад)",
+  "@event_time_minutes": {
+    "placeholders": {
+      "time": {
+        "type": "int"
+      }
+    }
+  },
+  "event_time_seconds": "({time} секунд назад)",
+  "@event_time_seconds": {
+    "placeholders": {
+      "time": {
+        "type": "int"
+      }
+    }
+  },
+  "sort": "Сортировка",
+  "event_not_found": "Не найдено",
+  "event_time_today": "Сегодня",
+  "event_time_yesterday": "Вчера",
+  "event_type_1": "Землетрясения",
+  "event_type_2": "Пожар",
+  "event_type_3": "Оползень",
+  "event_type_4": "Паводки",
+  "event_type_5": "Сель",
+  "event_type_6": "Лавина",
+  "weather_week": "Погода  на неделю",
+  "weather_time_now": "Сейчас",
+  "button_back": "Вернуться",
+  "setting_item_1": "Тип уведомлений",
+  "setting_item_1_1": "Нет",
+  "setting_item_1_2": "Рядом",
+  "setting_item_1_3": "На расстоянии",
+  "setting_item_1_4": "Мой регион",
+  "setting_item_1_5": "Моя страна",
+  "setting_item_1_6": "Мой континент",
+  "setting_item_1_7": "В мире",
+  "setting_item_2": "Звук уведомлений",
+  "setting_item_3": "Разрешить все важные уведомления",
+  "setting_item_4": "Минимальная магнитуда",
+  "setting_item_4_1": "1.0 +",
+  "setting_item_4_2": "1.5 +",
+  "setting_item_4_3": "2.0 +",
+  "setting_item_4_4": "2.5 +",
+  "setting_item_4_5": "3.0 +",
+  "setting_item_4_6": "3.5 +",
+  "setting_item_4_7": "4.0 +",
+  "setting_item_4_8": "4.5 +",
+  "setting_item_4_9": "5.0 +",
+  "setting_item_4_10": "5.5 +",
+  "setting_item_4_11": "6.0 +",
+  "setting_item_4_12": "6.5 +",
+  "setting_item_4_13": "7.0 +",
+  "setting_item_4_14": "7.5 +",
+  "setting_item_4_15": "8.0 +",
+  "setting_item_4_16": "8.5 +",
+  "setting_item_4_17": "9.0 +",
+  "setting_item_4_18": "9.5 +",
+  "setting_item_5": "Система измерений",
+  "setting_item_5_1": "Автоматически",
+  "setting_item_5_2": "Мили",
+  "setting_item_5_3": "Км",
+  "setting_item_7": "Страна",
+  "setting_item_8": "Показ магнитуды",
+  "setting_item_9": "Показ региона",
+  "setting_item_10": "Временные рамки",
+  "setting_item_10_1": "12 часов",
+  "setting_item_10_2": "24 часов",
+  "setting_item_10_3": "36 часов",
+  "setting_item_10_4": "48 часов",
+  "setting_item_11": "Сортировка катаклизмов",
+  "setting_item_11_1": "Время",
+  "setting_item_11_2": "Расстояние",
+  "setting_item_11_3": "Магнитуда",
+  "setting_item_12": "Политика конфиденциальности",
+  "setting_item_13": "Поделиться приложением",
+  "setting_item_14": "Оценить приложение",
+  "setting_item_15": "Поддержка",
+  "setting_item_16": "Поддержать проект",
+  "forum_f": "Форумы",
+  "forum_n": "Новости",
+  "forum_message_not_found": "Сообщений нет",
+  "forum_message_second_ago": "с. назад",
+  "forum_message_minute_ago": "м. назад",
+  "forum_message_hour_ago": "ч. назад",
+  "forum_message_day_ago": "д. назад"
+}
